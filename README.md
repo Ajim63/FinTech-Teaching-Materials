@@ -1,7 +1,7 @@
 # FinTech Teaching Matarials
  **This repo provide some implementations of Deep Learning models with Tensorflow, SCIPY, scikit learn, and Keras**
  
-** Requirments ** 
+**Requirments** 
 - numpy >= 1.19
 - pandas >= 1.0.1
 - sckitlearn >= 0.22.0
@@ -12,3 +12,5 @@
 
 
  
+**DATA**
+The necessary data required for running the [Deep_Learning.ipynb](Deep_Learning.ipynb) is [available in Folder data](data.md)
