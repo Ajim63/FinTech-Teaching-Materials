@@ -26,3 +26,5 @@ The iPython Notebook [Word_Embedding_with_Keres.ipynb](Word_Embedding_with_Keres
 The notebook is populated with enough comments to provide step-by-step instruction and explanation of all the models. 
 The notebook use the IMDb movie rating data, which is available here or can directly be download the preprocesd data from `keres` with `keras.imdb.load_data` fucntion. 
 
+##### Below is the learned embedding space represented in 2D for 300 most frequent words. 
+![Learned Embedding](embedding_space.png)
