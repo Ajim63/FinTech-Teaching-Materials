@@ -13,4 +13,4 @@
 
  
 **DATA**
-The necessary data required for running the [Deep_Learning.ipynb](Deep_Learning.ipynb) is [available in Folder data](data.md)
+The necessary data required for running the [Deep_Learning.ipynb](Deep_Learning.ipynb) is available in Folder  [data](data)
