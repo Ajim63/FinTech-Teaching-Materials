@@ -1,5 +1,5 @@
 # FinTech Teaching Matarials
- **This repo provide some simple implementations of Deep Learning models with Tensorflow, SCIPY, scikit learn, and Keras**
+ **This Git Repo provide some simple implementations of Deep Learning models with Tensorflow, SCIPY, scikit learn, and Keras**
  
 ### **Requirments** 
 - numpy >= 1.19
